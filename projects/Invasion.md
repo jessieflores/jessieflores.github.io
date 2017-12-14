@@ -20,6 +20,8 @@ A project for ICS 215 where we had to modify the existing python code for the ga
 
 Once the right code is inputed by the user, the game is now enchanced so that you have more lives, you shoot your beams faster, and you also move faster as well. For this project, we all were responsible for our own work so I did everything for my own project. I learned how to modify existing code, especially when the code is modular and requires other files to function correctly. Doing this project also helped me understand basic python semantics and syntax. 
 
+
+
 The basic Alien Invasion code can be found at [Github](https://github.com/patmessina/AlienInvasion).
 
 
