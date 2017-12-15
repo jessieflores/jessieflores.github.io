@@ -13,7 +13,7 @@ labels:
 summary: A Craigslist-like web application for UH Manoa students.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/landing%20page2.png">
+<img class="ui rounded image" src="../images/landing%20page.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
