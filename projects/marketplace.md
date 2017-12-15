@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing%20page.png
+image: images/landing%20page2.png
 title: Manoa Marketplace
 permalink: projects/marketplace
 date: 2017
@@ -13,7 +13,7 @@ labels:
 summary: A Craigslist-like web application for UH Manoa students.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/landing%20page.png">
+<img class="ui medium right floated rounded image" src="../images/landing%20page2.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
@@ -21,4 +21,4 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/manoa-marketplace"><i class="large github icon"></i>Manoa Marketplace</a>
