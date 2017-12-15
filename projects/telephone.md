@@ -8,7 +8,7 @@ date: 2015
 labels:
   - Java
   - telephone book
-summary: Made a basic telephone book in javascript.
+summary: Made a basic telephone book in java.
 ---
 
 <img class="ui rounded image" src="../images/telephone-menu.png">
@@ -20,7 +20,7 @@ For this project, I was the lead programmer who was responsible for programming 
 
 Here is some code that illustrates how we read values from the line sensors:
 
-```js
+```java
 class TelephoneBook {
 
    private LinkedList[] hashArray = new LinkedList[7];
