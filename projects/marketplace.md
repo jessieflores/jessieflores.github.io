@@ -15,7 +15,7 @@ summary: A Craigslist-like web application for UH Manoa students.
 
 <img class="ui rounded image" src="../images/landing%20page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Manoa Marketplace is a web application that I helped develop as a team project in ICS 314, Fall 2017. The project helped me learn how to design and implement a responsive web site.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
