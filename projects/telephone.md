@@ -11,7 +11,7 @@ labels:
 summary: Made a basic telephone book in javascript.
 ---
 
-<img class="ui fluid image" src="../images/telephone-menu.png">
+<img class="ui rounded image" src="../images/telephone-menu.png">
   
 
 A project for ICS 211 where we were required to create a 'telephone directory' in Java using linked lists.   
