@@ -2,9 +2,9 @@
 layout: project
 type: project
 image: images/landing%20page.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Manoa Marketplace
+permalink: projects/marketplace
+date: 2017
 labels:
   - Javascript
   - Meteor
