@@ -11,14 +11,16 @@ labels:
 summary: Made a basic telephone book in java.
 ---
 
-<img class="ui rounded image" src="../images/telephone-menu.png">
   
 
-A project for ICS 211 where we were required to create a 'telephone directory' in Java using linked lists and hashing.    
+A project for ICS 211 where we were required to create a 'telephone directory' in Java using linked lists and hashing. A menu is  implemented for the user to be able to choose to add a contact(name and number only), find a contact, delete a contact, display the phone book, or exit the program. A contact is added to a hash by defining a person's contact info as a list object and setting the head and tail properties of the list as needed, the list is then added to the hash. Deleting a contact has a similar approach but requires that you replace the pointer to the previous contact to the next contact of the deleted contact. Retrieving is easier as you just need to match contact names and return a match.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+<img class="ui rounded image" src="../images/telephone-menu.png">
 
-Here is some code that illustrates how we read values from the line sensors:
+
+Displaying the whole telephone book is a little arduous as you need to traverse through the hash table and for each hash value, traverse through each linked list and display each contact info in the list. There are also some error checking throughout the project like checking user input. Each person was responsible for their own projects so I did all the work on mine. I learned how to implement a basic data structure by doing this project and also how I can apply the material learned in class to real life needs.
+
+Here is some code that illustrates the hash iniatialization:
 
 ```java
 class TelephoneBook {
