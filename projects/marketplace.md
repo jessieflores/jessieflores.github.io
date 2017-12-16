@@ -13,7 +13,7 @@ labels:
 summary: A Craigslist-like web application for UH Manoa students.
 ---
 
-<img class="ui medium rounded image" src="../images/landing%20page.png">
+<img class="ui medium right floated rounded image" src="../images/landing%20page.png">
 
 Manoa Marketplace is a web application that I helped develop as a team project in ICS 314, Fall 2017. The application is similar to craigslist but for UH manoa students and there is a direct message system implemented for inqueries. Manoa Marketplace is implemented using [Meteor](http://meteor.com), a JavaScript application platform. 
 
