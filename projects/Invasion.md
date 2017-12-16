@@ -18,7 +18,7 @@ An assignment for ICS 215 where we had to modify the existing python code for th
 
 <img class="ui fluid image" src="../images/AI-cheat.png">
 
-Once the right code is inputed by the user, the game is now enchanced so that you have more lives, you shoot your beams faster, and you also move faster as well. For this assignment, we all were responsible for our own work so I did everything for my own assignment. I learned how to modify existing code, especially when the code is modular and requires other files to function correctly. Doing this project also helped me understand basic python semantics and syntax. 
+Once the right code is inputted by the user, the game is now enchanced so that you have more lives, you shoot your beams faster, and you also move faster as well. For this assignment, we all were responsible for our own work so I did everything for my own assignment. I learned how to modify existing code, especially when the code is modular and requires other files to function correctly. Doing this project also helped me understand basic python semantics and syntax. 
 
 
 
