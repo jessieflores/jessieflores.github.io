@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/alien-invasion.jpg
 title: Konami Code
-permalink: projects/alien-invasion
+permalink: projects/alieninvasion
 date: 2016
 labels:
   - alien-invasion
