@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "jessieflores",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/jessieflores"
       },
       {
         "network": "linkedin",
@@ -44,6 +44,11 @@
       "name": "video game design",
       "keywords": [
       ]
+    },
+    {
+      "name": "AI programming",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -55,6 +60,10 @@
         "C++",
         "Java",
         "Javascript"
+        "Perl"
+        "HTML"
+        "Semantic UI"
+        "Meteor"
       ]
     },
     {
@@ -62,6 +71,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Git/GitHub",
 
       ]
@@ -75,7 +85,7 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ ICS314: Software Engineering
       ]
     }
   ],
