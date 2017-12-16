@@ -17,5 +17,5 @@ After a thorough google search, I had found many other users report this problem
 
 <img class="ui medium image" src="../images/scanning.jpg">
 
-As far as problems with functionality or finding problems with meteor that deter assignments, I have not found anything other than the problem I talked about above. There are still some run time issues but are negligible as they only take up less than 5 minutes. For example, when you first instialize a meteor app, it takes a decent amount of time and also when you are making it for the first time on IntelliJ, it takes a decent amount of time to index the files. 
+As far as problems with functionality or finding problems with meteor that deter assignments, I have not found anything other than the problem I talked about above. There are still some run time issues but are negligible as they only take up less than 5 minutes. For example, when you first initialize a meteor app, it takes a decent amount of time and also when you are making it for the first time on IntelliJ, it takes a decent amount of time to index the files. 
 
