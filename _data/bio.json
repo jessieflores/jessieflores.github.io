@@ -85,7 +85,13 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ "ICS314: Software Engineering"
+      "courses": [ "ICS 314: Software Engineering", 
+                   "ICS 311: Alogrithms",
+                   "ICS 241: Discrete Math for Computer Science II",
+                   "ICS 212: Program Structure",
+                   "ICS 211: Introduction to Computer Science II",
+                   "ICS 141: Discrete Math for Computer Science I",
+                   "ICS 111: Introduction to Computer Science I",
       ]
     }
   ],
