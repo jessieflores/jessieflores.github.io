@@ -20,7 +20,7 @@ A project for ICS 211 where we were required to create a 'telephone directory' i
 
 Displaying the whole telephone book is a little arduous as you need to traverse through the hash table and for each hash value, traverse through each linked list and display each contact info in the list. There are also some error checking throughout the project like checking user input. Each person was responsible for their own projects so I did all the work on mine. I learned how to implement a basic data structure by doing this project and also how I can apply the material learned in class to real life needs.
 
-Here is some code that illustrates the hash iniatialization:
+Here is some code that illustrates the hash initialization:
 
 ```java
 class TelephoneBook {
